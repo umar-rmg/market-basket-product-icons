@@ -1,0 +1,857 @@
+[
+  {
+    "itemName": "4C Iced Tea Mix",
+    "sourceFile": "4C Iced Tea Mix.png",
+    "path": "images/4c-iced-tea-mix.png"
+  },
+  {
+    "itemName": "8 Inch Apple Pie",
+    "sourceFile": "8 Inch Apple Pie.png",
+    "path": "images/8-inch-apple-pie.png"
+  },
+  {
+    "itemName": "Activia Yogurt 4 Pack",
+    "sourceFile": "Activia Yogurt 4 Pack.png",
+    "path": "images/activia-yogurt-4-pack.png"
+  },
+  {
+    "itemName": "Alvor Quality Frozen Pacific Smelts",
+    "sourceFile": "Alvor Quality Frozen Pacific Smelts.png",
+    "path": "images/alvor-quality-frozen-pacific-smelts.png"
+  },
+  {
+    "itemName": "Alvor Red Argentinian Shrimp 16 oz. 30/40 ct.",
+    "sourceFile": "Alvor Red Argentinian Shrimp 16 oz. 30/40 ct..png",
+    "path": "images/alvor-red-argentinian-shrimp-16-oz-30-40-ct.png"
+  },
+  {
+    "itemName": "Anthuriums or Bromeliads",
+    "sourceFile": "Anthuriums or Bromeliads.png",
+    "path": "images/anthuriums-or-bromeliads.png"
+  },
+  {
+    "itemName": "Baby Seedless Cucumbers",
+    "sourceFile": "Baby Seedless Cucumbers.png",
+    "path": "images/baby-seedless-cucumbers.png"
+  },
+  {
+    "itemName": "BBQ Rib Dinner",
+    "sourceFile": "BBQ Rib Dinner.png",
+    "path": "images/bbq-rib-dinner.png"
+  },
+  {
+    "itemName": "Bell & Evans Boneless & Skinless Chicken Thighs",
+    "sourceFile": "Bell & Evans Boneless & Skinless Chicken Thighs.png",
+    "path": "images/bell-and-evans-boneless-and-skinless-chicken-thighs.png"
+  },
+  {
+    "itemName": "Bing Beverages",
+    "sourceFile": "Bing Beverages.png",
+    "path": "images/bing-beverages.png"
+  },
+  {
+    "itemName": "Bizzy Cold Brew 48 oz.",
+    "sourceFile": "Bizzy Cold Brew 48 oz..png",
+    "path": "images/bizzy-cold-brew-48-oz.png"
+  },
+  {
+    "itemName": "Bloom Energy Drink",
+    "sourceFile": "Bloom Energy Drink.png",
+    "path": "images/bloom-energy-drink.png"
+  },
+  {
+    "itemName": "Bob Evans Mashed Potatoes or Mac & Cheese",
+    "sourceFile": "Bob Evans Mashed Potatoes or Mac & Cheese.png",
+    "path": "images/bob-evans-mashed-potatoes-or-mac-and-cheese.png"
+  },
+  {
+    "itemName": "Bos'N Brand Breaded Oysters",
+    "sourceFile": "Bos'N Brand Breaded Oysters.png",
+    "path": "images/bos-n-brand-breaded-oysters.png"
+  },
+  {
+    "itemName": "Boston Coffee Cake",
+    "sourceFile": "Boston Coffee Cake.png",
+    "path": "images/boston-coffee-cake.png"
+  },
+  {
+    "itemName": "Boulder Canyon Kettle Chips Party Size",
+    "sourceFile": "Boulder Canyon Kettle Chips Party Size.png",
+    "path": "images/boulder-canyon-kettle-chips-party-size.png"
+  },
+  {
+    "itemName": "Boulder Canyon Tortilla Chips",
+    "sourceFile": "Boulder Canyon Tortilla Chips.png",
+    "path": "images/boulder-canyon-tortilla-chips.png"
+  },
+  {
+    "itemName": "Brioche Sandwich Rolls 6 Pack",
+    "sourceFile": "Brioche Sandwich Rolls 6 Pack.png",
+    "path": "images/brioche-sandwich-rolls-6-pack.png"
+  },
+  {
+    "itemName": "Bubba Burger Beef Burger 2 Lb.",
+    "sourceFile": "Bubba Burger Beef Burger 2 Lb..png",
+    "path": "images/bubba-burger-beef-burger-2-lb.png"
+  },
+  {
+    "itemName": "Busch 18 Pack",
+    "sourceFile": "Busch 18 Pack.png",
+    "path": "images/busch-18-pack.png"
+  },
+  {
+    "itemName": "Cabot Colby Jack Cheese",
+    "sourceFile": "Cabot Colby Jack Cheese.png",
+    "path": "images/cabot-colby-jack-cheese.png"
+  },
+  {
+    "itemName": "Cabot Pepper Jack Cheese",
+    "sourceFile": "Cabot Pepper Jack Cheese.png",
+    "path": "images/cabot-pepper-jack-cheese.png"
+  },
+  {
+    "itemName": "Captain Parker's Clam Chowder",
+    "sourceFile": "Captain Parker's Clam Chowder.png",
+    "path": "images/captain-parker-s-clam-chowder.png"
+  },
+  {
+    "itemName": "Cedar's Hommus 20 oz.",
+    "sourceFile": "Cedar's Hommus 20 oz..png",
+    "path": "images/cedar-s-hommus-20-oz.png"
+  },
+  {
+    "itemName": "Cedar's Pita Chips",
+    "sourceFile": "Cedar's Pita Chips.png",
+    "path": "images/cedar-s-pita-chips.png"
+  },
+  {
+    "itemName": "Chobani 20g Protein 6.7 oz.",
+    "sourceFile": "Chobani 20g Protein 6.7 oz..png",
+    "path": "images/chobani-20g-protein-6-7-oz.png"
+  },
+  {
+    "itemName": "Chobani Greek Yogurt 5.3 oz",
+    "sourceFile": "Chobani Greek Yogurt 5.3 oz.png",
+    "path": "images/chobani-greek-yogurt-5-3-oz.png"
+  },
+  {
+    "itemName": "Chobani Greek Zero Sugar Yogurt 5.3 oz.",
+    "sourceFile": "Chobani Greek Zero Sugar Yogurt 5.3 oz..png",
+    "path": "images/chobani-greek-zero-sugar-yogurt-5-3-oz.png"
+  },
+  {
+    "itemName": "Chobani Less Sugar Greek Yogurt 5.3 oz.",
+    "sourceFile": "Chobani Less Sugar Greek Yogurt 5.3 oz..png",
+    "path": "images/chobani-less-sugar-greek-yogurt-5-3-oz.png"
+  },
+  {
+    "itemName": "Ciabatta Breads",
+    "sourceFile": "Ciabatta Breads.png",
+    "path": "images/ciabatta-breads.png"
+  },
+  {
+    "itemName": "Columbus Charcuterie Sampler",
+    "sourceFile": "Columbus Charcuterie Sampler.png",
+    "path": "images/columbus-charcuterie-sampler.png"
+  },
+  {
+    "itemName": "Columbus Salame Trio Sampler Pack",
+    "sourceFile": "Columbus Salame Trio Sampler Pack.png",
+    "path": "images/columbus-salame-trio-sampler-pack.png"
+  },
+  {
+    "itemName": "Columbus Salami Sticks 8 oz.",
+    "sourceFile": "Columbus Salami Sticks 8 oz..png",
+    "path": "images/columbus-salami-sticks-8-oz.png"
+  },
+  {
+    "itemName": "Cooked Cajun Crawfish",
+    "sourceFile": "Cooked Cajun Crawfish.png",
+    "path": "images/cooked-cajun-crawfish.png"
+  },
+  {
+    "itemName": "Coors Light 15 Pack",
+    "sourceFile": "Coors Light 15 Pack.png",
+    "path": "images/coors-light-15-pack.png"
+  },
+  {
+    "itemName": "Cranberry Pecan Bread",
+    "sourceFile": "Cranberry Pecan Bread.png",
+    "path": "images/cranberry-pecan-bread.png"
+  },
+  {
+    "itemName": "Curly's Baby Back Ribs 24 oz.",
+    "sourceFile": "Curly's Baby Back Ribs 24 oz..png",
+    "path": "images/curly-s-baby-back-ribs-24-oz.png"
+  },
+  {
+    "itemName": "Curly's Hickory Smoked Pulled Pork 16 oz.",
+    "sourceFile": "Curly's Hickory Smoked Pulled Pork 16 oz..png",
+    "path": "images/curly-s-hickory-smoked-pulled-pork-16-oz.png"
+  },
+  {
+    "itemName": "Deutschmacher German Bologna",
+    "sourceFile": "Deutschmacher German Bologna.png",
+    "path": "images/deutschmacher-german-bologna.png"
+  },
+  {
+    "itemName": "Eggo Waffles 10 Count",
+    "sourceFile": "Eggo Waffles 10 Count.png",
+    "path": "images/eggo-waffles-10-count.png"
+  },
+  {
+    "itemName": "Fine Dessert Cake Slices",
+    "sourceFile": "Fine Dessert Cake Slices.png",
+    "path": "images/fine-dessert-cake-slices.png"
+  },
+  {
+    "itemName": "Founders All Day IPA 15 Pack",
+    "sourceFile": "Founders All Day IPA 15 Pack.png",
+    "path": "images/founders-all-day-ipa-15-pack.png"
+  },
+  {
+    "itemName": "Fresh Boneless Pork Butt",
+    "sourceFile": "Fresh Boneless Pork Butt.png",
+    "path": "images/fresh-boneless-pork-butt.png"
+  },
+  {
+    "itemName": "Fresh Bunch Radishes",
+    "sourceFile": "Fresh Bunch Radishes.png",
+    "path": "images/fresh-bunch-radishes.png"
+  },
+  {
+    "itemName": "Fresh Express Chopped Salad Kit",
+    "sourceFile": "Fresh Express Chopped Salad Kit.png",
+    "path": "images/fresh-express-chopped-salad-kit.png"
+  },
+  {
+    "itemName": "Fresh Ocean Raised Salmon Steaks",
+    "sourceFile": "Fresh Ocean Raised Salmon Steaks.png",
+    "path": "images/fresh-ocean-raised-salmon-steaks.png"
+  },
+  {
+    "itemName": "Fresh Romaine Lettuce",
+    "sourceFile": "Fresh Romaine Lettuce.png",
+    "path": "images/fresh-romaine-lettuce.png"
+  },
+  {
+    "itemName": "Fudgy Brownies",
+    "sourceFile": "Fudgy Brownies.png",
+    "path": "images/fudgy-brownies.png"
+  },
+  {
+    "itemName": "Galbani Fresh Sliced Mozzarella 8 oz.",
+    "sourceFile": "Galbani Fresh Sliced Mozzarella 8 oz..png",
+    "path": "images/galbani-fresh-sliced-mozzarella-8-oz.png"
+  },
+  {
+    "itemName": "Galbani Ricotta Cheese 15 oz.",
+    "sourceFile": "Galbani Ricotta Cheese 15 oz..png",
+    "path": "images/galbani-ricotta-cheese-15-oz.png"
+  },
+  {
+    "itemName": "Gaspar's Linguica or Chourico",
+    "sourceFile": "Gaspar's Linguica or Chourico.png",
+    "path": "images/gaspar-s-linguica-or-chourico.png"
+  },
+  {
+    "itemName": "Gayo Azul Edam Wedge 8 oz.",
+    "sourceFile": "Gayo Azul Edam Wedge 8 oz..png",
+    "path": "images/gayo-azul-edam-wedge-8-oz.png"
+  },
+  {
+    "itemName": "Goose Island 15 Pack",
+    "sourceFile": "Goose Island 15 Pack.png",
+    "path": "images/goose-island-15-pack.png"
+  },
+  {
+    "itemName": "Graduation Cakes",
+    "sourceFile": "Graduation Cakes.png",
+    "path": "images/graduation-cakes.png"
+  },
+  {
+    "itemName": "Graduation Cookies 12 oz.",
+    "sourceFile": "Graduation Cookies 12 oz..png",
+    "path": "images/graduation-cookies-12-oz.png"
+  },
+  {
+    "itemName": "Graduation Cupcakes",
+    "sourceFile": "Graduation Cupcakes.png",
+    "path": "images/graduation-cupcakes.png"
+  },
+  {
+    "itemName": "Green Island Blue Cheese",
+    "sourceFile": "Green Island Blue Cheese.png",
+    "path": "images/green-island-blue-cheese.png"
+  },
+  {
+    "itemName": "Grillo's Pickles 32 oz.",
+    "sourceFile": "Grillo's Pickles 32 oz..png",
+    "path": "images/grillo-s-pickles-32-oz.png"
+  },
+  {
+    "itemName": "Guinness Draught 8 Pack",
+    "sourceFile": "Guinness Draught 8 Pack.png",
+    "path": "images/guinness-draught-8-pack.png"
+  },
+  {
+    "itemName": "Harp 8 Pack",
+    "sourceFile": "Harp 8 Pack.png",
+    "path": "images/harp-8-pack.png"
+  },
+  {
+    "itemName": "Harpoon 12 Pack",
+    "sourceFile": "Harpoon 12 Pack.png",
+    "path": "images/harpoon-12-pack.png"
+  },
+  {
+    "itemName": "Hatfield Extra Thick Cut Maple Brown Sugar Bacon",
+    "sourceFile": "Hatfield Extra Thick Cut Maple Brown Sugar Bacon.png",
+    "path": "images/hatfield-extra-thick-cut-maple-brown-sugar-bacon.png"
+  },
+  {
+    "itemName": "Hatfield Ham Steaks 8 oz.",
+    "sourceFile": "Hatfield Ham Steaks 8 oz..png",
+    "path": "images/hatfield-ham-steaks-8-oz.png"
+  },
+  {
+    "itemName": "Hatfield Hardwood Smoked Quarter Ham",
+    "sourceFile": "Hatfield Hardwood Smoked Quarter Ham.png",
+    "path": "images/hatfield-hardwood-smoked-quarter-ham.png"
+  },
+  {
+    "itemName": "Healthy Pomegranates",
+    "sourceFile": "Healthy Pomegranates.png",
+    "path": "images/healthy-pomegranates.png"
+  },
+  {
+    "itemName": "Home Free Cookies",
+    "sourceFile": "Home Free Cookies.png",
+    "path": "images/home-free-cookies.png"
+  },
+  {
+    "itemName": "Hotos Feta Cheese",
+    "sourceFile": "Hotos Feta Cheese.png",
+    "path": "images/hotos-feta-cheese.png"
+  },
+  {
+    "itemName": "Icelandic Provisions Skyr Yogurt 30 oz.",
+    "sourceFile": "Icelandic Provisions Skyr Yogurt 30 oz..png",
+    "path": "images/icelandic-provisions-skyr-yogurt-30-oz.png"
+  },
+  {
+    "itemName": "Imported Red Seedless Grapes",
+    "sourceFile": "Imported Red Seedless Grapes.png",
+    "path": "images/imported-red-seedless-grapes.png"
+  },
+  {
+    "itemName": "Jessica's 5 Seed Honey Tuscan Bread",
+    "sourceFile": "Jessica's 5 Seed Honey Tuscan Bread.png",
+    "path": "images/jessica-s-5-seed-honey-tuscan-bread.png"
+  },
+  {
+    "itemName": "Jif Creamy Peanut Butter",
+    "sourceFile": "Jif Creamy Peanut Butter.png",
+    "path": "images/jif-creamy-peanut-butter.png"
+  },
+  {
+    "itemName": "Kettle Brand Potato Chips",
+    "sourceFile": "Kettle Brand Potato Chips.png",
+    "path": "images/kettle-brand-potato-chips.png"
+  },
+  {
+    "itemName": "Kevita Kombucha & Probiotic Beverages",
+    "sourceFile": "Kevita Kombucha & Probiotic Beverages.png",
+    "path": "images/kevita-kombucha-and-probiotic-beverages.png"
+  },
+  {
+    "itemName": "Kildare Princess Jonah Crab Meat Pasteurized 6 oz.",
+    "sourceFile": "Kildare Princess Jonah Crab Meat Pasteurized 6 oz..png",
+    "path": "images/kildare-princess-jonah-crab-meat-pasteurized-6-oz.png"
+  },
+  {
+    "itemName": "Lay's Potato Chips 5-8 oz.",
+    "sourceFile": "Lay's Potato Chips 5-8 oz..png",
+    "path": "images/lay-s-potato-chips-5-8-oz.png"
+  },
+  {
+    "itemName": "Leinenkugel's 12 Pack",
+    "sourceFile": "Leinenkugel's 12 Pack.png",
+    "path": "images/leinenkugel-s-12-pack.png"
+  },
+  {
+    "itemName": "Mama Bear Salmon Burgers",
+    "sourceFile": "Mama Bear Salmon Burgers.png",
+    "path": "images/mama-bear-salmon-burgers.png"
+  },
+  {
+    "itemName": "Marcho Farms Fresh Meatloaf Mix",
+    "sourceFile": "Marcho Farms Fresh Meatloaf Mix.png",
+    "path": "images/marcho-farms-fresh-meatloaf-mix.png"
+  },
+  {
+    "itemName": "Market Basket Cheddar Bars",
+    "sourceFile": "Market Basket Cheddar Bars.png",
+    "path": "images/market-basket-cheddar-bars.png"
+  },
+  {
+    "itemName": "Market Basket Colby Cheese",
+    "sourceFile": "Market Basket Colby Cheese.png",
+    "path": "images/market-basket-colby-cheese.png"
+  },
+  {
+    "itemName": "Market Basket Cooked Shrimp 16-20 count",
+    "sourceFile": "Market Basket Cooked Shrimp 16-20 count.png",
+    "path": "images/market-basket-cooked-shrimp-16-20-count.png"
+  },
+  {
+    "itemName": "Market Basket Deli Turkey Breast",
+    "sourceFile": "Market Basket Deli Turkey Breast.png",
+    "path": "images/market-basket-deli-turkey-breast.png"
+  },
+  {
+    "itemName": "Market Basket Dry Roasted Peanuts 16 oz.",
+    "sourceFile": "Market Basket Dry Roasted Peanuts 16 oz..png",
+    "path": "images/market-basket-dry-roasted-peanuts-16-oz.png"
+  },
+  {
+    "itemName": "Market Basket Ez-Peel Raw Shrimp 8-12 count",
+    "sourceFile": "Market Basket Ez-Peel Raw Shrimp 8-12 count.png",
+    "path": "images/market-basket-ez-peel-raw-shrimp-8-12-count.png"
+  },
+  {
+    "itemName": "Market Basket Fresh Italian Sausage",
+    "sourceFile": "Market Basket Fresh Italian Sausage.png",
+    "path": "images/market-basket-fresh-italian-sausage.png"
+  },
+  {
+    "itemName": "Market Basket Peeled & Deveined Raw Shrimp 16-20 Count",
+    "sourceFile": "Market Basket Peeled & Deveined Raw Shrimp 16-20 Count.png",
+    "path": "images/market-basket-peeled-and-deveined-raw-shrimp-16-20-count.png"
+  },
+  {
+    "itemName": "Market Basket Shredded Mozzarella 8 oz.",
+    "sourceFile": "Market Basket Shredded Mozzarella 8 oz..png",
+    "path": "images/market-basket-shredded-mozzarella-8-oz.png"
+  },
+  {
+    "itemName": "Market Basket Sliced Pastrami Brisket",
+    "sourceFile": "Market Basket Sliced Pastrami Brisket.png",
+    "path": "images/market-basket-sliced-pastrami-brisket.png"
+  },
+  {
+    "itemName": "Market Basket Tilapia Fillets 16 oz.",
+    "sourceFile": "Market Basket Tilapia Fillets 16 oz..png",
+    "path": "images/market-basket-tilapia-fillets-16-oz.png"
+  },
+  {
+    "itemName": "Market Basket Virginia or Honey Ham",
+    "sourceFile": "Market Basket Virginia or Honey Ham.png",
+    "path": "images/market-basket-virginia-or-honey-ham.png"
+  },
+  {
+    "itemName": "Market's Café Breakfast Sandwiches",
+    "sourceFile": "Market's Café Breakfast Sandwiches.png",
+    "path": "images/market-s-cafe-breakfast-sandwiches.png"
+  },
+  {
+    "itemName": "Market's Cafe Fresh Made Smoothies",
+    "sourceFile": "Market's Cafe Fresh Made Smoothies.png",
+    "path": "images/market-s-cafe-fresh-made-smoothies.png"
+  },
+  {
+    "itemName": "Market's Kitchen 3 Topping Pizza",
+    "sourceFile": "Market's Kitchen 3 Topping Pizza.png",
+    "path": "images/market-s-kitchen-3-topping-pizza.png"
+  },
+  {
+    "itemName": "Market's Kitchen Fresh Made Burritos",
+    "sourceFile": "Market's Kitchen Fresh Made Burritos.png",
+    "path": "images/market-s-kitchen-fresh-made-burritos.png"
+  },
+  {
+    "itemName": "Market's Kitchen Large Chicken Caesar Salad",
+    "sourceFile": "Market's Kitchen Large Chicken Caesar Salad.png",
+    "path": "images/market-s-kitchen-large-chicken-caesar-salad.png"
+  },
+  {
+    "itemName": "Market's Kitchen Meat Lasagna 2 Pack",
+    "sourceFile": "Market's Kitchen Meat Lasagna 2 Pack.png",
+    "path": "images/market-s-kitchen-meat-lasagna-2-pack.png"
+  },
+  {
+    "itemName": "Market's Kitchen Pilgrim Wrap",
+    "sourceFile": "Market's Kitchen Pilgrim Wrap.png",
+    "path": "images/market-s-kitchen-pilgrim-wrap.png"
+  },
+  {
+    "itemName": "Market's Kitchen Quiche 2 Pack",
+    "sourceFile": "Market's Kitchen Quiche 2 Pack.png",
+    "path": "images/market-s-kitchen-quiche-2-pack.png"
+  },
+  {
+    "itemName": "Market's Kitchen Quiche Lorraine 2 Pack",
+    "sourceFile": "Market's Kitchen Quiche Lorraine 2 Pack.png",
+    "path": "images/market-s-kitchen-quiche-lorraine-2-pack.png"
+  },
+  {
+    "itemName": "Market's Kitchen Sausage, Pepper & Onion Sub",
+    "sourceFile": "Market's Kitchen Sausage, Pepper & Onion Sub.png",
+    "path": "images/market-s-kitchen-sausage-pepper-and-onion-sub.png"
+  },
+  {
+    "itemName": "Market's Kitchen Shrimp Alfredo with Penne",
+    "sourceFile": "Market's Kitchen Shrimp Alfredo with Penne.png",
+    "path": "images/market-s-kitchen-shrimp-alfredo-with-penne.png"
+  },
+  {
+    "itemName": "Market's Kitchen Three Cheese Cavatappi",
+    "sourceFile": "Market's Kitchen Three Cheese Cavatappi.png",
+    "path": "images/market-s-kitchen-three-cheese-cavatappi.png"
+  },
+  {
+    "itemName": "Market's Kitchen Whole BLT Sub",
+    "sourceFile": "Market's Kitchen Whole BLT Sub.png",
+    "path": "images/market-s-kitchen-whole-blt-sub.png"
+  },
+  {
+    "itemName": "Marzetti Classic Salad Dressings 13 oz.",
+    "sourceFile": "Marzetti Classic Salad Dressings 13 oz..png",
+    "path": "images/marzetti-classic-salad-dressings-13-oz.png"
+  },
+  {
+    "itemName": "Michelob Ultra 30 Pack",
+    "sourceFile": "Michelob Ultra 30 Pack.png",
+    "path": "images/michelob-ultra-30-pack.png"
+  },
+  {
+    "itemName": "Miller Lite 15 pack",
+    "sourceFile": "Miller Lite 15 pack.png",
+    "path": "images/miller-lite-15-pack.png"
+  },
+  {
+    "itemName": "Modelo Especial 12 Pack",
+    "sourceFile": "Modelo Especial 12 Pack.png",
+    "path": "images/modelo-especial-12-pack.png"
+  },
+  {
+    "itemName": "Nathan's All Beef Franks 28 oz.",
+    "sourceFile": "Nathan's All Beef Franks 28 oz..png",
+    "path": "images/nathan-s-all-beef-franks-28-oz.png"
+  },
+  {
+    "itemName": "Nathan's Skinless All Beef Franks 12 oz.",
+    "sourceFile": "Nathan's Skinless All Beef Franks 12 oz..png",
+    "path": "images/nathan-s-skinless-all-beef-franks-12-oz.png"
+  },
+  {
+    "itemName": "Nature's Best Surimi Snow Legs 12 oz.",
+    "sourceFile": "Nature's Best Surimi Snow Legs 12 oz..png",
+    "path": "images/nature-s-best-surimi-snow-legs-12-oz.png"
+  },
+  {
+    "itemName": "Negroni Salami Italiano or Pepperoni 4 oz.",
+    "sourceFile": "Negroni Salami Italiano or Pepperoni 4 oz..png",
+    "path": "images/negroni-salami-italiano-or-pepperoni-4-oz.png"
+  },
+  {
+    "itemName": "New Look! Newman's Own Stone-Fired Crust Pizza",
+    "sourceFile": "New Look! Newman's Own Stone-Fired Crust Pizza.png",
+    "path": "images/new-look-newman-s-own-stone-fired-crust-pizza.png"
+  },
+  {
+    "itemName": "Niji Sushi California Roll with Cream Cheese",
+    "sourceFile": "Niji Sushi California Roll with Cream Cheese.png",
+    "path": "images/niji-sushi-california-roll-with-cream-cheese.png"
+  },
+  {
+    "itemName": "Niji Sushi Super Philly Roll",
+    "sourceFile": "Niji Sushi Super Philly Roll.png",
+    "path": "images/niji-sushi-super-philly-roll.png"
+  },
+  {
+    "itemName": "Oatmeal Raisin Cookies",
+    "sourceFile": "Oatmeal Raisin Cookies.png",
+    "path": "images/oatmeal-raisin-cookies.png"
+  },
+  {
+    "itemName": "Ocean Cultivated Littleneck Clams",
+    "sourceFile": "Ocean Cultivated Littleneck Clams.png",
+    "path": "images/ocean-cultivated-littleneck-clams.png"
+  },
+  {
+    "itemName": "Ocean Fresh Perch Fillets",
+    "sourceFile": "Ocean Fresh Perch Fillets.png",
+    "path": "images/ocean-fresh-perch-fillets.png"
+  },
+  {
+    "itemName": "Ocean Raised Norwegian Salmon Fillets",
+    "sourceFile": "Ocean Raised Norwegian Salmon Fillets.png",
+    "path": "images/ocean-raised-norwegian-salmon-fillets.png"
+  },
+  {
+    "itemName": "Ocean Spray Splash Drinks 50.7 oz.",
+    "sourceFile": "Ocean Spray Splash Drinks 50.7 oz..png",
+    "path": "images/ocean-spray-splash-drinks-50-7-oz.png"
+  },
+  {
+    "itemName": "Oikos Triple Zero Yogurt 4 Pack",
+    "sourceFile": "Oikos Triple Zero Yogurt 4 Pack.png",
+    "path": "images/oikos-triple-zero-yogurt-4-pack.png"
+  },
+  {
+    "itemName": "Old Croc Grand Reserve Cheddar",
+    "sourceFile": "Old Croc Grand Reserve Cheddar.png",
+    "path": "images/old-croc-grand-reserve-cheddar.png"
+  },
+  {
+    "itemName": "Old Neighborhood Skinless or All Beef Skinless Franks 2.5 lb.",
+    "sourceFile": "Old Neighborhood Skinless or All Beef Skinless Franks 2.5 lb..png",
+    "path": "images/old-neighborhood-skinless-or-all-beef-skinless-franks-2-5-lb.png"
+  },
+  {
+    "itemName": "Organic Iceberg Lettuce",
+    "sourceFile": "Organic Iceberg Lettuce.png",
+    "path": "images/organic-iceberg-lettuce.png"
+  },
+  {
+    "itemName": "Oyster Bay Alaskan Cod Pieces",
+    "sourceFile": "Oyster Bay Alaskan Cod Pieces.png",
+    "path": "images/oyster-bay-alaskan-cod-pieces.png"
+  },
+  {
+    "itemName": "Pabst Blue Ribbon 18 Pack",
+    "sourceFile": "Pabst Blue Ribbon 18 Pack.png",
+    "path": "images/pabst-blue-ribbon-18-pack.png"
+  },
+  {
+    "itemName": "Passport Cuisine Gyoza",
+    "sourceFile": "Passport Cuisine Gyoza.png",
+    "path": "images/passport-cuisine-gyoza.png"
+  },
+  {
+    "itemName": "Pepperidge Farm Swirl Breads",
+    "sourceFile": "Pepperidge Farm Swirl Breads.png",
+    "path": "images/pepperidge-farm-swirl-breads.png"
+  },
+  {
+    "itemName": "Pero Organic Broccoli Florets",
+    "sourceFile": "Pero Organic Broccoli Florets.png",
+    "path": "images/pero-organic-broccoli-florets.png"
+  },
+  {
+    "itemName": "Petite New York Sirloin Steak",
+    "sourceFile": "Petite New York Sirloin Steak.png",
+    "path": "images/petite-new-york-sirloin-steak.png"
+  },
+  {
+    "itemName": "Poland Spring Water 24 Pack",
+    "sourceFile": "Poland Spring Water 24 Pack.png",
+    "path": "images/poland-spring-water-24-pack.png"
+  },
+  {
+    "itemName": "poppi Prebiotic Soda",
+    "sourceFile": "poppi Prebiotic Soda.png",
+    "path": "images/poppi-prebiotic-soda.png"
+  },
+  {
+    "itemName": "Pringles Crisps Party Stack",
+    "sourceFile": "Pringles Crisps Party Stack.png",
+    "path": "images/pringles-crisps-party-stack.png"
+  },
+  {
+    "itemName": "Rolling Rock 18 Pack",
+    "sourceFile": "Rolling Rock 18 Pack.png",
+    "path": "images/rolling-rock-18-pack.png"
+  },
+  {
+    "itemName": "Sam's Fresh Salsa 12-16 oz.",
+    "sourceFile": "Sam's Fresh Salsa 12-16 oz..png",
+    "path": "images/sam-s-fresh-salsa-12-16-oz.png"
+  },
+  {
+    "itemName": "Single Layer Carrot Cake",
+    "sourceFile": "Single Layer Carrot Cake.png",
+    "path": "images/single-layer-carrot-cake.png"
+  },
+  {
+    "itemName": "Skinny Pop Popcorn",
+    "sourceFile": "Skinny Pop Popcorn.png",
+    "path": "images/skinny-pop-popcorn.png"
+  },
+  {
+    "itemName": "Smirnoff Ice 12 Pack",
+    "sourceFile": "Smirnoff Ice 12 Pack.png",
+    "path": "images/smirnoff-ice-12-pack.png"
+  },
+  {
+    "itemName": "Smithfield Baby Back Ribs 38 oz.",
+    "sourceFile": "Smithfield Baby Back Ribs 38 oz..png",
+    "path": "images/smithfield-baby-back-ribs-38-oz.png"
+  },
+  {
+    "itemName": "Smithwick's 8 Packs",
+    "sourceFile": "Smithwick's 8 Packs.png",
+    "path": "images/smithwick-s-8-packs.png"
+  },
+  {
+    "itemName": "Splash of Color Bouquet",
+    "sourceFile": "Splash of Color Bouquet.png",
+    "path": "images/splash-of-color-bouquet.png"
+  },
+  {
+    "itemName": "Spring Weaver Calandiva 6 Inch Pot",
+    "sourceFile": "Spring Weaver Calandiva 6 Inch Pot.png",
+    "path": "images/spring-weaver-calandiva-6-inch-pot.png"
+  },
+  {
+    "itemName": "St. Andre Brie",
+    "sourceFile": "St. Andre Brie.png",
+    "path": "images/st-andre-brie.png"
+  },
+  {
+    "itemName": "Starbucks Coffee 11-12 oz. bag",
+    "sourceFile": "Starbucks Coffee 11-12 oz. bag.png",
+    "path": "images/starbucks-coffee-11-12-oz-bag.png"
+  },
+  {
+    "itemName": "Starbucks Coffee Creamer 28 oz.",
+    "sourceFile": "Starbucks Coffee Creamer 28 oz..png",
+    "path": "images/starbucks-coffee-creamer-28-oz.png"
+  },
+  {
+    "itemName": "Starbucks Iced Coffee 40-48 oz.",
+    "sourceFile": "Starbucks Iced Coffee 40-48 oz..png",
+    "path": "images/starbucks-iced-coffee-40-48-oz.png"
+  },
+  {
+    "itemName": "Steak & Cheese Egg Rolls",
+    "sourceFile": "Steak & Cheese Egg Rolls.png",
+    "path": "images/steak-and-cheese-egg-rolls.png"
+  },
+  {
+    "itemName": "Steelhead Trout Fillets",
+    "sourceFile": "Steelhead Trout Fillets.png",
+    "path": "images/steelhead-trout-fillets.png"
+  },
+  {
+    "itemName": "Stoneface Brewing Co. Full Clip 4 Pack",
+    "sourceFile": "Stoneface Brewing Co. Full Clip 4 Pack.png",
+    "path": "images/stoneface-brewing-co-full-clip-4-pack.png"
+  },
+  {
+    "itemName": "Stoneface Brewing Double Clip 4 Pack",
+    "sourceFile": "Stoneface Brewing Double Clip 4 Pack.png",
+    "path": "images/stoneface-brewing-double-clip-4-pack.png"
+  },
+  {
+    "itemName": "Stoneface Brewing. 4 Pack",
+    "sourceFile": "Stoneface Brewing. 4 Pack.png",
+    "path": "images/stoneface-brewing-4-pack.png"
+  },
+  {
+    "itemName": "Sugardale Ham Butt Portions",
+    "sourceFile": "Sugardale Ham Butt Portions.png",
+    "path": "images/sugardale-ham-butt-portions.png"
+  },
+  {
+    "itemName": "Sugardale Ham Shank Portions",
+    "sourceFile": "Sugardale Ham Shank Portions.png",
+    "path": "images/sugardale-ham-shank-portions.png"
+  },
+  {
+    "itemName": "Sweet Blueberries 1 Pint",
+    "sourceFile": "Sweet Blueberries 1 Pint.png",
+    "path": "images/sweet-blueberries-1-pint.png"
+  },
+  {
+    "itemName": "Switchback 12 Pack",
+    "sourceFile": "Switchback 12 Pack.png",
+    "path": "images/switchback-12-pack.png"
+  },
+  {
+    "itemName": "Tender Green Beans",
+    "sourceFile": "Tender Green Beans.png",
+    "path": "images/tender-green-beans.png"
+  },
+  {
+    "itemName": "The Little Potato Company Microwave Potatoes",
+    "sourceFile": "The Little Potato Company Microwave Potatoes.png",
+    "path": "images/the-little-potato-company-microwave-potatoes.png"
+  },
+  {
+    "itemName": "Thin 'N Trim Chicken Breast",
+    "sourceFile": "Thin 'N Trim Chicken Breast.png",
+    "path": "images/thin-n-trim-chicken-breast.png"
+  },
+  {
+    "itemName": "Tillamook Zero Sugar Meat Snacks",
+    "sourceFile": "Tillamook Zero Sugar Meat Snacks.png",
+    "path": "images/tillamook-zero-sugar-meat-snacks.png"
+  },
+  {
+    "itemName": "Tostitos Scoops!",
+    "sourceFile": "Tostitos Scoops!.png",
+    "path": "images/tostitos-scoops.png"
+  },
+  {
+    "itemName": "Tyson \"Tailgate Wings\"",
+    "sourceFile": "Tyson \"Tailgate Wings\".png",
+    "path": "images/tyson-tailgate-wings.png"
+  },
+  {
+    "itemName": "Utopihen Pasture Raised Large Brown Eggs",
+    "sourceFile": "Utopihen Pasture Raised Large Brown Eggs.png",
+    "path": "images/utopihen-pasture-raised-large-brown-eggs.png"
+  },
+  {
+    "itemName": "V8 Juice",
+    "sourceFile": "V8 Juice.png",
+    "path": "images/v8-juice.png"
+  },
+  {
+    "itemName": "Vermont Creamery Crumbled Goat Cheese",
+    "sourceFile": "Vermont Creamery Crumbled Goat Cheese.png",
+    "path": "images/vermont-creamery-crumbled-goat-cheese.png"
+  },
+  {
+    "itemName": "Vermont Creamery Fresh Goat Cheese Log 4 oz.",
+    "sourceFile": "Vermont Creamery Fresh Goat Cheese Log 4 oz..png",
+    "path": "images/vermont-creamery-fresh-goat-cheese-log-4-oz.png"
+  },
+  {
+    "itemName": "Vidalia Onions",
+    "sourceFile": "Vidalia Onions.png",
+    "path": "images/vidalia-onions.png"
+  },
+  {
+    "itemName": "Vital Farms Pasture Raised Large Eggs",
+    "sourceFile": "Vital Farms Pasture Raised Large Eggs.png",
+    "path": "images/vital-farms-pasture-raised-large-eggs.png"
+  },
+  {
+    "itemName": "Wise Potato Chips Party Size",
+    "sourceFile": "Wise Potato Chips Party Size.png",
+    "path": "images/wise-potato-chips-party-size.png"
+  },
+  {
+    "itemName": "Woodstock 12 Pack",
+    "sourceFile": "Woodstock 12 Pack.png",
+    "path": "images/woodstock-12-pack.png"
+  },
+  {
+    "itemName": "Yankee Trader Scallops Wrapped in Bacon",
+    "sourceFile": "Yankee Trader Scallops Wrapped in Bacon.png",
+    "path": "images/yankee-trader-scallops-wrapped-in-bacon.png"
+  },
+  {
+    "itemName": "YoCrunch Yogurt 4 Pack",
+    "sourceFile": "YoCrunch Yogurt 4 Pack.png",
+    "path": "images/yocrunch-yogurt-4-pack.png"
+  },
+  {
+    "itemName": "Yoplait Oui Yogurt",
+    "sourceFile": "Yoplait Oui Yogurt.png",
+    "path": "images/yoplait-oui-yogurt.png"
+  }
+]
